@@ -1,4 +1,4 @@
-# Task 1: Code Management System
+# Task 1: Code Management System and Software
 
 
 ## Git and Source Code Management
@@ -60,11 +60,68 @@ The `status` command lists the status of working files and directories.
 
 * __Account__: Go to [GitHub](https://github.com) and create a developer account (if needed).
 Complete the GitHub fields `Name`, `Public email`, and upload a picture.
-* __Complete__: The [Python](https://www.python.org) exercise described in `StudentID.ipynb`.
 
 
-## GitHub Student Developer Pack
+### GitHub Student Developer Pack (optional)
 
-[GitHub](https://github.com/) also created the [Student Developer Pack](https://education.github.com/pack) to give students free access to developer tools in one place and thereby support education.
+[GitHub](https://github.com/) also created the [Student Developer Pack](https://education.github.com/students) to give students free access to developer tools in one place and thereby support education.
 You may want to get your pack.
+
+
+## The Python Programming Language
+
+[Python](https://www.python.org) is a widely used general-purpose, high-level programming language that supports multiple programming paradigms.
+Its design philosophy emphasizes code readability.
+Python interpreters are available for installation on many operating systems, allowing Python code execution on a wide variety of systems.
+
+
+### Action Items
+
+* __Peruse__: The [Python Software Foundation](https://www.python.org) website.
+
+
+## Anaconda
+
+[Anaconda](https://www.anaconda.com/) is an open source distribution of Python, which includes popular Python packages for data science.
+
+
+### Action Items
+
+* __Peruse__: The [Anaconda](https://www.anaconda.com/what-is-anaconda/) website.
+* __Download and Install__: [Anaconda](https://www.anaconda.com/distribution/).
+* __Test__: Python interpreter.
+
+
+## Jupyter
+
+The [Jupyter](http://jupyter.org/) Notebook is a web application that can be used to create and share documents that contain live code, equations, visualizations and explanatory text.
+The Notebook has support for many programming languages, including Python, R, Julia and Scala.
+The Jupyter Notebook is included in the Anaconda distribution.
+
+### Action Items
+
+* __Run__: The Jupyter notebook.
+
+
+## PyCharm (optional)
+
+[PyCharm](https://www.jetbrains.com/pycharm/) is a Python integrated development environment (IDE) for programming computer software.
+It is developed by [JetBrains](https://www.jetbrains.com).
+The educational edition is free and open source.
+
+
+### Action Items
+
+* __Read__: [About PyCharm](https://www.jetbrains.com/pycharm/).
+* __Watch__: [Take a tour of PyCharm Educational Edition](https://www.youtube.com/watch?v=BPC-bGdBSM8).
+* __Download and Install__: [PyCharm Educational Edition](https://www.jetbrains.com/pycharm-educational/).
+* __Complete__: Introduction to Python in PyCharm.
+
+
+## GitHub and Jupyter Integration
+
+
+### Action Items
+
+* __Complete__: The [Python](https://www.python.org) exercise described in `StudentID.ipynb`.
 
