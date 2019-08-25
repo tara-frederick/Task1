@@ -60,6 +60,7 @@ The `status` command lists the status of working files and directories.
 
 * __Account__: Go to [GitHub](https://github.com) and create a developer account (if needed).
 Complete the GitHub fields `Name`, `Public email`, and upload a picture.
+* __Complete__: The [Python](https://www.python.org) exercise described in `StudentID.ipynb`.
 
 
 ## GitHub Student Developer Pack
